@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>task</title>
+</head>
+<body>
+	 <input id="dollar_amount" name="dollars" placeholder=" Dollar amount">
+        <select id="country" onchange="change()" >
+	   <option value="18">Egyption PL</option>
+       <option value="12">Saudia  Pounds</option>
+       <option value="65">EL Emarate Pounds</option> 
+
+          
+
+	</select>
+	<br>
+  
+     <div id="output">The output :</div>
+     
+
+<script>
+
+         
+            
+            function change() {
+                                
+                var amount = document.getElementById('dollar_amount').value;
+                    
+                var list = document.getElementById('country');
+                    
+                var option = list.options[list.selectedIndex].value;
+
+                document.getElementById('output').innerHTML = amount * option;
+                
+            }
+                
+
+
+</script>
+
+</body>
+</html>

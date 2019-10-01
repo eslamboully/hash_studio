@@ -1,0 +1,492 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+}
+
+h1,
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+h6 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.navigation .menu li a {
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.menu li.menu-item-has-children>a:after {
+    font-size: 16px;
+}
+
+.menu ul li.menu-item-has-children>a:after {
+    font-size: 16px;
+}
+
+.navigation .menu .sub-menu li a {
+    font-weight: 300;
+}
+
+.nav-right li {
+    font-size: 16px;
+}
+
+.nav-right .number-info {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.nav-right .number-info i {
+    font-size: 16px;
+}
+
+.gallery-overlay {
+    font-size: 16px;
+}
+
+.boxed-btn {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.boxed-btn i {
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.preloader {
+    font-size: 20px;
+}
+
+.info-icon {
+    line-height: 50px;
+    font-size: 28px;
+}
+
+.logo-text a h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 34px;
+    font-weight: 800;
+    line-height: 0.8;
+}
+
+.logo-text .logo-title {
+    font-size: 14px;
+    line-height: .8;
+}
+
+.nav-right li .cart-icon-wrap i {
+    font-size: 20px;
+}
+
+.nav-right li.cart-wrapper .cart-icon-wrap span {
+    line-height: 15px;
+    font-size: 10px;
+}
+
+.shopping-cart .badge {
+    font-size: 12px;
+}
+
+.shopping-cart .shopping-cart-items .item-name {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.shopping-cart .shopping-cart-items .item-price {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.shopping-cart .shopping-cart-items .item-quantity {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.cart-icon {
+    font-size: 24px;
+}
+
+#searchbox::-webkit-input-placeholder {
+    font-size: 14px;
+}
+
+.search-icon {
+    font-size: 16px;
+}
+
+.infobox .infobox-icon i {
+    font-size: 45px;
+}
+
+.infobox .infobox-icon {
+    line-height: 90px;
+    font-size: 45px;
+}
+
+.single-seriveces i {
+    font-size: 64px;
+}
+
+.services-wrapper .owl-nav {
+    font-size: 22px;
+}
+
+.funfact-wrapper .funfact-box h2 {
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.funfact-wrapper .funfact-box p {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.studiesbox .media>i {
+    font-size: 36px;
+}
+
+.casestudies .studiesbox .media a {
+    font-weight: 700;
+}
+
+.single-pricing .pricing i {
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.single-pricing .pricing .price {
+    font-size: 34px;
+    font-weight: 400;
+}
+
+.single-pricing ul li {
+    font-size: 15px;
+}
+
+.expertise-item .icon {
+    line-height: 50px;
+    font-size: 30px;
+}
+
+.contact-info .contactinfo-title {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.infocontact2>i {
+    font-size: 120px;
+}
+
+.teamhover-content h6 {
+    font-size: 14px;
+}
+
+.teamhover-content .team-social li a {
+    font-size: 13px;
+    line-height: 24px;
+}
+
+.testimonial-title h4 {
+    /* font-family: 'Montserrat', sans-serif; */
+}
+
+.testimonial-title h5 {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.testimonial {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.testimonial:before {
+    font-size: 24px;
+}
+
+.testimonial:after {
+    font-size: 24px;
+}
+
+.latestnews-wrapper .post-thumbnail .post-overlay {
+    line-height: 50px;
+    font-size: 18px;
+}
+
+.latestnews-wrapper .post-thumbnail .meta-date {
+    font-size: 14px;
+}
+
+.latestnews-wrapper .meta-info li {
+    font-size: 14px;
+}
+
+.latestnews-wrapper .meta-info li i {
+    font-size: 16px;
+}
+
+.latestnews-wrapper .post-title a {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.latestnews-wrapper .post-content-bottom .read-more i {
+    font-size: 20px;
+}
+
+.cta-wrapper p {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.cta-wrapper .boxed-btn i {
+    font-size: 20px;
+}
+
+.cta-wrapper .or {
+    line-height: 35px;
+    font-weight: 600;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.partners-wrapper .owl-nav button {
+    font-size: 45px;
+}
+
+.breadcrumb-nav li a {
+    font-weight: 600;
+}
+
+.masonary-tab-sorting li a {
+    font-size: 16px;
+}
+
+.pagination-nav li a {
+    line-height: 45px;
+    font-size: 16px;
+}
+
+.pagination-nav li.prev a,
+.pagination-nav li.next a {
+    font-size: 16px;
+    line-height: 45px;
+}
+
+.pagination-nav li.prev a:hover,
+.pagination-nav li.next a:hover {
+    background: #fff;
+}
+
+.pagination-nav li.dotted {
+    font-size: 21px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.input__field {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.input__label {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.info-wrapper .infobox-icon {
+    font-size: 46px;
+}
+
+.text-404 {
+    font-size: 380px;
+    line-height: .8;
+}
+
+.subscribe-form button {
+    font-size: 30px;
+}
+
+.blog-post .post-thumbnail .post-overlay {
+    font-size: 40px;
+}
+
+.blog-post .post-thumbnail .meta-date {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.blog-post .meta-info li a {
+    font-size: 16px;
+}
+
+.blog-post .meta-info li i {
+    font-size: 20px;
+}
+
+.blog-post .post-title a {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.blog-post .post-content-bottom .read-more i {
+    font-size: 20px;
+}
+
+.blog-post .post-content-bottom .read-more {
+    font-size: 16px;
+}
+
+.share-btn {
+    font-size: 16px;
+}
+
+.social-links a {
+    font-size: 10px;
+}
+
+.blog-filter .blog-post .post-thumbnail .meta-date {
+    font-size: 14px;
+}
+
+.blog-filter .blog-post .post-thumbnail .post-overlay {
+    font-size: 20px;
+}
+
+.blog-filter .meta-info li {
+    font-size: 14px;
+}
+
+.blog-filter .blog-post .meta-info li a {
+    font-size: 14px;
+}
+
+.blog-filter .meta-info li i {
+    font-size: 14px;
+}
+
+.blog-filter .post-title a {
+    font-size: 20px;
+}
+
+.author-body h3 a {
+    font-size: 20px;
+}
+
+.comments-area .comments-title {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.comment-list article .fn {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.comment-list article .comment-metadata {
+    font-weight: 600;
+}
+
+.comment-reply-title {
+    font-size: 16px;
+}
+
+.about-items li i {
+    font-size: 70px;
+}
+
+.about-items li h4 {
+    font-weight: 400;
+}
+
+.video-play-button i {
+    font-size: 32px;
+    line-height: 44px;
+}
+
+.video-overlay-close {
+    font-size: 36px;
+    line-height: 1;
+    font-weight: 400;
+}
+
+.time_circles>div>h4 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.time_circles>div>span {
+    font-size: 40px;
+}
+
+.cs-intro-section .cs-progress-count {
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.commingsoon-wrap .cs-aboutus-section .cs-section-content-title {
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.cs-close {
+    font-size: 40px;
+}
+
+.cs-section .cs-section-content-title {
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+.cs-section .cs-content-description {
+    font-size: 16px;
+}
